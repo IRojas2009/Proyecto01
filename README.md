@@ -9,4 +9,4 @@ Grupo 10-3 de Aplicaciones Mòviles
 - Kotlin
 - Mysql
 
-![Logo Maincra] (imagenes/maincra.jpg)
+![logo maincra](imagenes/maincra.jpg)
